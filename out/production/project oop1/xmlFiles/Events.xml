@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Events>
+    <Event>
+        <boughtTickets>0</boughtTickets>
+        <dateAsDate>2022-12-12T00:00:00+02:00</dateAsDate>
+        <eventDate>12-12-2022</eventDate>
+        <eventName>xx</eventName>
+        <hall>
+            <hallName>Bulgaria hall</hallName>
+            <number>1</number>
+            <numberOfPlaces>75</numberOfPlaces>
+            <numberOfRows>5</numberOfRows>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item>booked</item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+        </hall>
+    </Event>
+    <Event>
+        <boughtTickets>1</boughtTickets>
+        <dateAsDate>2022-11-11T00:00:00+02:00</dateAsDate>
+        <eventDate>11-11-2022</eventDate>
+        <eventName>vv</eventName>
+        <hall>
+            <hallName>Central hall</hallName>
+            <number>3</number>
+            <numberOfPlaces>60</numberOfPlaces>
+            <numberOfRows>5</numberOfRows>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item>jGX4u</item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+        </hall>
+    </Event>
+    <Event>
+        <boughtTickets>0</boughtTickets>
+        <dateAsDate>2022-12-13T00:00:00+02:00</dateAsDate>
+        <eventDate>13-12-2022</eventDate>
+        <eventName>nn</eventName>
+        <hall>
+            <hallName>Central hall</hallName>
+            <number>3</number>
+            <numberOfPlaces>60</numberOfPlaces>
+            <numberOfRows>5</numberOfRows>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+        </hall>
+    </Event>
+    <Event>
+        <boughtTickets>0</boughtTickets>
+        <dateAsDate>2022-12-14T00:00:00+02:00</dateAsDate>
+        <eventDate>14-12-2022</eventDate>
+        <eventName>Bulgaria hall</eventName>
+        <hall>
+            <hallName>Bulgaria hall</hallName>
+            <number>1</number>
+            <numberOfPlaces>75</numberOfPlaces>
+            <numberOfRows>5</numberOfRows>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+            <seats>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+                <item> free </item>
+            </seats>
+        </hall>
+    </Event>
+</Events>
